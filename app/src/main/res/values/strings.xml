@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="email_edit_text_hint">Enter your Email</string>
+    <string name="password_edit_text_hint">Enter your password</string>
+    <string name="password_confirmation_edit_text_hint">Confirm your password</string>
+    <string name="login_button_text">Log In</string>
+    <string name="register_button_text">Register</string>
+    <string name="go_back_button_text">Go Back</string>
+</resources>
